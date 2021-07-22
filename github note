@@ -1,0 +1,11 @@
+step to follow push the local repo to Github from eclipse
+________________________________________________________________________
+1)right click on project
+2)goto "team" and then select the "share project"
+3)click on" use or create repo in parent folder"
+4)select project and click on "create repo" then click on finish 
+5)repeat step1 and goto "team"
+6)click on "commit"
+7)move all the files from unstage to stage
+8)copy url from github repo and pass it to eclipse along with username and pass
+9)click on "next " "next "and finish
